@@ -1,1 +1,1 @@
-"# Basic Poll System using Django" 
+# Basic Poll System using Django
