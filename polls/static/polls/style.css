@@ -1,0 +1,44 @@
+a {
+  color: white;
+}
+
+a:hover {
+  text-shadow: 0 0 10px black;
+}
+
+a:visited {
+  color: aliceblue;
+}
+
+body {
+  background: white url("images/background.gif") no-repeat center;
+  background-size: cover;
+  font-size: 30px;
+  font-family: monospace;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+  align-items: center;
+  margin: 0;
+}
+
+h1 {
+  color: white;
+}
+
+button {
+  font-size: 20px;
+}
+
+.button-div {
+  padding-top: 10px;
+}
+
+.vote-form {
+  color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
